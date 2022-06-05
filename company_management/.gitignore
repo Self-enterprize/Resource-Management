@@ -13,3 +13,6 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/public/argon/vendor
+/public/assets/vendor
+/public/assets/scss/core/vendors/
